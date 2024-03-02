@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  Number.cpp
+  Real.cpp
+C:\Users\TONYA\source\repos\Project1.5\Project1.5\Real.cpp(29,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Project1.5.vcxproj -> C:\Users\TONYA\source\repos\Project1.5\x64\Debug\Project1.5.exe
